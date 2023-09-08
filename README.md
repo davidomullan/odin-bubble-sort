@@ -1,5 +1,5 @@
 # Bubble Sort implemented with Ruby
-Build a method #bubble_sort that takes an array and returns a sorted array. It must use the bubble sort methodology (using #sort would be pretty pointless, wouldn’t it?).
+Build a method `#bubble_sort` that takes an array and returns a sorted array. It must use the bubble sort methodology (using #sort would be pretty pointless, wouldn’t it?).
 
 - Developer: [David M. O'Mullan](https://github.com/davidomullan)
 - Guidelines: [The Odin Project](https://www.theodinproject.com/lessons/ruby-bubble-sort)
